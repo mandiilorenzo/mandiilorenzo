@@ -1,7 +1,10 @@
 <h1 align="center">Olá, eu sou Amanda Di Lorenzo! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+c%C3%B3digo+limpo;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Desenvolvedora+Fullstack;Sempre+em+busca+de+novos+desafios" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
@@ -41,7 +44,6 @@
 
 ---
 
-### Meus status no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandiilorenzo&show_icons=true&theme=tokyonight" />
