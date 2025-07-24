@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou a Amanda Di Lorenzo! </h1>
 
-<p align="center"><b>Desenvolvedora Fullstack apaixonada por tecnologia, criatividade e soluções inteligentes.</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+c%C3%B3digo+limpo;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
+</p>
 
 ---
 
