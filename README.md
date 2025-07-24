@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Amanda Di Lorenzo! </h1>
+<h1 align="center">Olá, eu sou Amanda Di Lorenzo! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+c%C3%B3digo+limpo;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
@@ -44,14 +44,10 @@
 ### Meus status no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandiilorenzo&show_icons=true&theme=tokyonight" alt="Amanda GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandiilorenzo&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandiilorenzo&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandiilorenzo&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+c%C3%B3digo+limpo;Sempre+em+busca+de+novos+desafios" alt="Typing SVG" />
-</p>
 
